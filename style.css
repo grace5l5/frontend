@@ -313,7 +313,7 @@ button:focus {
 
 .mu-header-featured-content p{
 	color: #fff;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 .mu-app-download-area {
@@ -568,7 +568,7 @@ button:focus {
 .mu-feature-content-right {
 	display: inline;
 	float: left;
-	margin-top: 30px;
+	margin-top: 100px;
 	width: 100%;
 }
 
@@ -743,7 +743,7 @@ button:focus {
 .mu-apps-screenshot-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 40px 0;
 	width: 100%;
 }
 
