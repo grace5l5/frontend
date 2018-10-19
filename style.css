@@ -257,12 +257,12 @@ button:focus {
 
 .mu-menu-btn {
 	position: fixed;
-	right: 15%;
+	right: 5%;
 	top: 50px;
 	color: #fff;
 	font-size: 25px;
 	border: 2px solid #fff;
-	padding: 5px 14px;
+	padding: 5px 8px;
 	background-color: #00c6fb;
 	z-index: 999;
 	-webkit-transition: all 0.5s;
@@ -313,6 +313,7 @@ button:focus {
 
 .mu-header-featured-content p{
 	color: #fff;
+	font-size: 20px;
 }
 
 .mu-app-download-area {
